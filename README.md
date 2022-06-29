@@ -1,5 +1,4 @@
-# 6.hafta.sali.carsamba.odevi
-https://github.com/ulkulekci/Turkcell_JavaSe_odevler <br>
+# 6.hafta.sali.carsamba.odevi <br>
 <br>
 MD5<br>
 SHA<br>
